@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Soloop download
 
-You can use the [editor on GitHub](https://github.com/Kimberley114/soloop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can follow us in [Instagram](https://www.instagram.com/soloop.app/) for more video templates.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
